@@ -7,7 +7,7 @@ In this lab, your task is to:
 * Connect the workstation to the local network using the existing cable.  
 * After the fix has been implemented, confirm that the workstation has a connection to the local network and the internet.  
 
-![100BaseTX, PCIe](/Screenshot_1.png)
+![100BaseTX, PCIe](/Screenshot_2.png)
 
 Explanation  
 Complete this lab as follows:
